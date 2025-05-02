@@ -1,0 +1,2 @@
+INSERT a number
+ASSIGN a 123.1

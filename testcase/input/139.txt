@@ -1,0 +1,3 @@
+INSERT a number
+INSERT b number
+ASSIGN a b

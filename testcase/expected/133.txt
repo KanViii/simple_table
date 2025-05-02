@@ -1,0 +1,1 @@
+Invalid: ASSIGN a -17262.62

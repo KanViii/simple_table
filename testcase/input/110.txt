@@ -1,0 +1,6 @@
+INSERT a string
+BEGIN
+INSERT b number
+LOOKUP a
+END
+LOOKUP a

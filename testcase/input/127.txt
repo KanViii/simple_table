@@ -1,0 +1,12 @@
+INSERT a number
+ASSIGN a 132
+BEGIN
+INSERT a string
+INSERT c number
+INSERT d string
+LOOKUP a
+LOOKUP c
+LOOKUP d
+END
+LOOKUP a
+LOOKUP d

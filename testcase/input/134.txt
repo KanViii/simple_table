@@ -1,0 +1,7 @@
+INSERT a number
+BEGIN
+INSERT a string
+END
+BEGIN
+LOOKUP a
+END

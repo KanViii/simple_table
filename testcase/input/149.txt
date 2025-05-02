@@ -1,0 +1,6 @@
+INSERT a number
+BEGIN
+ASSIGN a 123
+END
+INSERT b string
+ASSIGN b 123

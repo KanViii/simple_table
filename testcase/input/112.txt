@@ -1,0 +1,4 @@
+INSERT abc number
+BEGIN
+ASSIGN d abc
+END

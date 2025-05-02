@@ -1,0 +1,4 @@
+INSERT target string
+BEGIN
+ASSIGN target source
+END

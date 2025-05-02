@@ -1,0 +1,4 @@
+BEGIN
+INSERT a string
+END
+INSERT a number

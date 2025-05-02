@@ -1,0 +1,6 @@
+INSERT x number
+BEGIN
+ASSIGN x 20
+INSERT x number
+END
+LOOKUP x

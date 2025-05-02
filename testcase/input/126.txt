@@ -1,0 +1,2 @@
+INSERT a strng
+ASSIGN a 'abc123'

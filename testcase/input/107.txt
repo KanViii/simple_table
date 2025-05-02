@@ -1,0 +1,2 @@
+INSERT var number
+LOOKUP var1

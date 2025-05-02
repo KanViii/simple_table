@@ -1,0 +1,4 @@
+BEGIN
+INSERT b string
+END
+END

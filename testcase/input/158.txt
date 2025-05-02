@@ -1,0 +1,22 @@
+INSERT global_a number
+INSERT global_b string
+PRINT
+BEGIN
+INSERT inner_a number
+ASSIGN inner_a global_a
+INSERT global_a string
+LOOKUP global_a
+LOOKUP global_b
+PRINT
+BEGIN
+INSERT inner_b number
+LOOKUP inner_a
+LOOKUP global_a
+ASSIGN global_a 'level2string'
+RPRINT
+END
+LOOKUP global_a
+RPRINT
+END
+LOOKUP global_a
+PRINT

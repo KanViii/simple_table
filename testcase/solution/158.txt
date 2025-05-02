@@ -1,0 +1,18 @@
+success
+success
+global_a//0 global_b//0
+success
+success
+success
+1
+0
+global_b//0 inner_a//1 global_a//1
+success
+1
+1
+success
+inner_b//2 global_a//1 inner_a//1 global_b//0
+1
+global_a//1 inner_a//1 global_b//0
+0
+global_a//0 global_b//0
