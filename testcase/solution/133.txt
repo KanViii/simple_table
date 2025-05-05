@@ -1,1 +1,1 @@
-Invalid: ASSIGN a -17262.62
+Invalid: INSERT          x          number

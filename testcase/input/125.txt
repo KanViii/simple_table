@@ -1,2 +1,8 @@
-INSERT a string
-ASSIGN a 'abc'
+INSERT x number
+BEGIN
+INSERT y number
+BEGIN
+INSERT z string
+RPRINT
+END
+END

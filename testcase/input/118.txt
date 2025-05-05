@@ -1,8 +1,9 @@
 INSERT a number
+BEGIN
 INSERT b string
+INSERT d number
 BEGIN
-INSERT a string
-BEGIN
-INSERT b number
-INSERT c string
+INSERT c number
+PRINT
+END
 END

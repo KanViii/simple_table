@@ -1,1 +1,1 @@
-INSERT a123_ number
+INSERT x abc

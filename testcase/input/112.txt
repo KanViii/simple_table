@@ -1,4 +1,2 @@
-INSERT abc number
-BEGIN
-ASSIGN d abc
-END
+PRINT
+RPRINT

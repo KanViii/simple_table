@@ -1,2 +1,2 @@
-INSERT var number
-LOOKUP var1
+INSERT x number
+ASSIGN y 5

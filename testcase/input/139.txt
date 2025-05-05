@@ -1,3 +1,2 @@
-INSERT a number
-INSERT b number
-ASSIGN a b
+INSERT x string
+ASSIGN x aFDFDSF

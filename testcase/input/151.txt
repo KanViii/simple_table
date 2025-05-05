@@ -1,2 +1,2 @@
-INSERT x string
-ASSIGN 1x 'string'
+INSERT s number
+ASSIGN s hello

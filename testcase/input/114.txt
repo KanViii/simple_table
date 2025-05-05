@@ -1,9 +1,4 @@
-INSERT a number
+INSERT x number
 BEGIN
-INSERT b string
-BEGIN
-INSERT a string
-PRINT
-END
-PRINT
+ASSIGN x 'abc'
 END

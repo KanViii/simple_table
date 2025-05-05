@@ -1,1 +1,1 @@
-Invalid: INSERT  number string
+Invalid: ASSIGN a 1AAAA

@@ -1,4 +1,0 @@
-INSERT a number
-BEGIN
-ASSIGN a b
-END

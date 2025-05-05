@@ -1,1 +1,1 @@
-Invalid: ASSIGN 1x 'string'
+Undeclared: ASSIGN s hello

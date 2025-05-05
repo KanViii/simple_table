@@ -1,2 +1,6 @@
-INSERT value string
-INSERT value number
+INSERT x number
+BEGIN
+INSERT x string
+ASSIGN x 'hello'
+END
+ASSIGN x 'world'

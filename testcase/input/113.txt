@@ -1,4 +1,5 @@
-INSERT target string
+INSERT x number
 BEGIN
-ASSIGN target source
+INSERT x string
 END
+LOOKUP x

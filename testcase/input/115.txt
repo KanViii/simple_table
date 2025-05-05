@@ -1,9 +1,1 @@
-INSERT a number
-BEGIN
-INSERT b string
-BEGIN
-INSERT a number
-PRINT
-END
-PRINT
 END

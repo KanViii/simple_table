@@ -1,7 +1,8 @@
 from TestUtils import TestUtils
 from TestSuite import TestSymbolTable
-# from TestSuite_DThanh import TestSymbolTable
+from TestSuite_DThanh import TestSymbolTable
 # from TestSuite_oxa import TestSymbolTable
+# from TestSuite_Duc import TestSymbolTable
 from pprint import pprint
 from io import StringIO
 import unittest

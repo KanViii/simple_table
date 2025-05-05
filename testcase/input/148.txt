@@ -1,4 +1,12 @@
 INSERT a number
-INSERT b string
+BEGIN
+INSERT a string
+ASSIGN a 'hello'
+LOOKUP a
+BEGIN
+INSERT b number
 ASSIGN b 123
+LOOKUP b
 END
+END
+LOOKUP a

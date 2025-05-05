@@ -1,6 +1,2 @@
-INSERT a string
-ASSIGN a 'abc'
-INSERT b number
-ASSIGN b 123
-END
-PRINT
+INSERT x string
+ASSIGN x ''

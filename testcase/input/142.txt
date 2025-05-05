@@ -1,5 +1,2 @@
-INSERT a number
-BEGN
-INSERT b string
-ASSIGN a 123
-END
+INSERT x number
+INSERT x fasfsb

@@ -1,1 +1,8 @@
-TypeMismatch: ASSIGN b 123
+success
+success
+success
+1
+success
+success
+2
+0

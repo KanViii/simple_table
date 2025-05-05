@@ -1,1 +1,2 @@
-Invalid: INSERT a strng
+success
+0

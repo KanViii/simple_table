@@ -1,6 +1,7 @@
-INSERT a string
+INSERT x number
 BEGIN
-INSERT b number
-LOOKUP a
+INSERT y string
+ASSIGN x 10
+LOOKUP x
+LOOKUP y
 END
-LOOKUP a

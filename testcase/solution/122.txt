@@ -1,1 +1,2 @@
-Invalid: INERT a number
+success
+0

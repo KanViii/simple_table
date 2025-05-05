@@ -1,2 +1,5 @@
 INSERT a number
-INSERT a abde
+BEGIN
+INSERT a string
+END
+LOOKUP a

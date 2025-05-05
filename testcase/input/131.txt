@@ -1,2 +1,1 @@
-INSERT a string
-ASSIGN a 'd b c'
+INSERT  x number

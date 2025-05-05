@@ -1,4 +1,5 @@
+INSERT a number
 BEGIN
-INSERT b string
-END
+INSERT a string
+PRINT
 END

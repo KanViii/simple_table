@@ -1,1 +1,3 @@
-Undeclared: ASSIGN target source
+success
+success
+0

@@ -1,1 +1,2 @@
-INSERT number string
+INSERT a number
+INSERT a AAAAA

@@ -437,16 +437,17 @@ class TestSymbolTable(unittest.TestCase):
         expected = ["TypeMismatch: ASSIGN a b"]
         self.assertTrue(TestUtils.check(input, expected, 140))
 
-    # def test_41(self):
-    #     input = [
-    #         "INSERT a number",
-    #         "BEGIN",
-    #         "INSERT a string",
-    #         "ASSIGN a 123",
-    #         "END", (end hay ko end co anh huong khong)
-    #     ]
-    #     expected = ["TypeMismatch: ASSIGN a 123"]
-    #     self.assertTrue(TestUtils.check(input, expected, 141))
+    def test_41(self):
+        input = [
+            "INSERT a number",
+            "BEGIN",
+            "INSERT a string",
+            "ASSIGN a 123",
+            "END",
+            #  (end hay ko end co anh huong khong)
+        ]
+        expected = ["TypeMismatch: ASSIGN a 123"]
+        self.assertTrue(TestUtils.check(input, expected, 141))
 
     def test_42(self):
         input = [

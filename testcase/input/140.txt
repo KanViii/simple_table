@@ -1,3 +1,2 @@
-INSERT a number
-INSERT b string
-ASSIGN a b
+INSERT x number
+ASSIGN x 14.5

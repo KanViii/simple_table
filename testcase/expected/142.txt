@@ -1,1 +1,1 @@
-Invalid: BEGN
+Invalid: INSERT x fasfsb

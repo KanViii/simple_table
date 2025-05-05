@@ -1,2 +1,1 @@
-INSERT a number
-ASSIGN a -17262.62
+INSERT          x          number

@@ -57,7 +57,6 @@ class TestSymbolTable(unittest.TestCase):
         self.assertTrue(TestUtils.check(input, expected, 104))
 
     def test_5(self):
-        print("TEST_5")
         input = [
             "INSERT x number",
             "INSERT y string",
@@ -72,7 +71,6 @@ class TestSymbolTable(unittest.TestCase):
         self.assertTrue(TestUtils.check(input, expected, 105))
 
     def test_6(self):
-        print("TEST_6")
         input = [
             "INSERT x number",
             "INSERT y string",
@@ -179,7 +177,6 @@ class TestSymbolTable(unittest.TestCase):
         self.assertTrue(TestUtils.check(input, expected, 114))
 
     def test_15(self):
-        print("TEST_15")
         input = [
             "INSERT x string",
             "BEGIN",
@@ -309,7 +306,6 @@ class TestSymbolTable(unittest.TestCase):
             "LOOKUP a",
             "LOOKUP d",
         ]
-        # expected = ["success", "success", "success", "success", "success", "1", "1", "1", "0", "0"]
         expected = ["Undeclared: LOOKUP d"]
         self.assertTrue(TestUtils.check(input, expected, 124))
 

@@ -1,2 +1,5 @@
-INSERT a string
-ASSIGN a 'b '
+INSERT x number
+BEGIN
+INSERT y string
+ASSIGN x y
+END

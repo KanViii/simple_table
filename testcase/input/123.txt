@@ -1,2 +1,10 @@
-INSERT a number
-ASSIGN a 123.1
+INSERT x number
+BEGIN
+INSERT y number
+BEGIN
+INSERT z string
+PRINT
+END
+PRINT
+END
+PRINT

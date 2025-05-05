@@ -1,1 +1,1 @@
-UnclosedBlock: 1
+Undeclared: ASSIGN x 5

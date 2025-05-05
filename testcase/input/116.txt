@@ -1,4 +1,1 @@
-INSERT a number
-INSERT b string
-BEGIN
-INSERT a string
+ASSIGN x 5

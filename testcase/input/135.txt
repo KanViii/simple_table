@@ -1,2 +1,1 @@
-INSERT a string
-ASSIGN a ''
+END   xy z

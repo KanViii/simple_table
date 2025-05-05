@@ -1,3 +1,6 @@
-INSERT a number
-INSERT c string
-ASSIGN c a
+INSERT x number
+BEGIN
+INSERT x string
+LOOKUP x
+END
+LOOKUP x

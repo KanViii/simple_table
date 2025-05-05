@@ -1,5 +1,3 @@
-INSERT x number
-BEGIN
-ASSIGN x 20
-LOOKUP x
-END
+INSERT y string
+ASSIGN x 5
+ASSIGN y '5'

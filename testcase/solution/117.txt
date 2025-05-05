@@ -1,1 +1,1 @@
-UnclosedBlock: 2
+Undeclared: LOOKUP x

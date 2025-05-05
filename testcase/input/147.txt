@@ -1,6 +1,18 @@
-INSERT x number
+INSERT x string
 BEGIN
-ASSIGN x 20
 INSERT x number
+INSERT y string
+ASSIGN x 5
+ASSIGN y '5'
+BEGIN
+INSERT z number
+INSERT abc string
+INSERT cba number
+PRINT
+RPRINT
 END
+RPRINT
 LOOKUP x
+LOOKUP y
+END
+PRINT

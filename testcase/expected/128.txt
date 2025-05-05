@@ -1,1 +1,6 @@
-Invalid: ASSIGN a 4n123
+success
+success
+success
+2
+1
+0

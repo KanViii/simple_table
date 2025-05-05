@@ -1,2 +1,2 @@
-INSERT a strng
-ASSIGN a 'abc123'
+INSERT string number
+LOOKUP string

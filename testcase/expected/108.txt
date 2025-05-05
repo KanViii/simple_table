@@ -1,1 +1,1 @@
-Redeclared: INSERT value number
+TypeMismatch: ASSIGN x 'world'

@@ -1,1 +1,1 @@
-Invalid: INSERT Abc123_ number
+Invalid: ASSIGN y 'abbc@@1'

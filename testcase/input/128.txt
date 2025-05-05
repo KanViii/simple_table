@@ -1,1 +1,10 @@
-ASSIGN a 4n123
+INSERT x number
+BEGIN
+INSERT x string
+BEGIN
+INSERT x number
+LOOKUP x
+END
+LOOKUP x
+END
+LOOKUP x

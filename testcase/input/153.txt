@@ -1,1 +1,1 @@
-INSERT  number string
+ASSIGN a 1AAAA

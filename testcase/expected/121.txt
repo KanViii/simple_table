@@ -1,1 +1,3 @@
-Invalid: INSERT a abde
+success
+success
+0
