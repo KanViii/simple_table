@@ -17,7 +17,11 @@ def simulate(list_of_commands):
     def process_command(state, command):
         (stack, outputs) = state
 
+        if command.endswith(" ") or command.startswith(" "):  
+            raise InvalidInstruction(command)
         shiji = command.strip().split(' ')
+        if any(part == "" for part in shiji):
+            raise InvalidInstruction(command)
         if shiji[0] == "INSERT":
            if len(shiji) != 3:
                 raise InvalidInstruction(command)
@@ -31,6 +35,8 @@ def simulate(list_of_commands):
                 raise InvalidInstruction(command)
             return ([[]] + stack, outputs)
         elif shiji[0] == "END":
+            if len(shiji) != 1 or any(part.strip() == "" for part in shiji[1:]):
+                raise InvalidInstruction(command)
             if len(shiji) != 1:
                 raise InvalidInstruction(command)
             if len(stack) <= 1:
@@ -151,6 +157,8 @@ def simulate(list_of_commands):
 
 ###___LOOKUP____####
     def lookup(name, command, stack, outputs):
+        if not check_name(name):
+            raise InvalidInstruction(command)
         found, level = find_symbol(stack, name)
         if found is None:
             raise Undeclared(command)
